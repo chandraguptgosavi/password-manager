@@ -1,0 +1,11 @@
+<resources>
+    <string name="auth_login_label">Login</string>
+    <string name="auth_cancel">Cancel</string>
+    <string name="autofill_master_login_label">Master Code</string>
+    <string name="app_name">PASSWORD MANAGER</string>
+    <string name="signing_in_label">SIGNING IN WITH PASSWORD MANAGER</string>
+    <string name="account_type">ACCOUNT: MASTER</string>
+    <string name="edittext_hint">Enter Four Digit Code</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
